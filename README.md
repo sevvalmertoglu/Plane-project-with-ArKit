@@ -1,4 +1,4 @@
-## ArKit First Project
+## ArKit Airplane Project
 - ArKit Basics.
 - An airplane becomes visible on the camera, shrinking in size, flickering, and eventually disappearing from sight.
 
